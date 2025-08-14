@@ -38,7 +38,7 @@ Navegue pelas sessões abaixo para explorar cada tema com detalhes.
 - [FAQ](/8.%20FAQ/8.0%20faq/index.html)  
   Perguntas frequentes e respostas para ajudar no uso do sistema e no entendimento da Estrutura e Instituições da Igreja Católica.
 
-
+- [teste]({{ site.baseurl }}/0.%20Primeiro%20Acesso%20e%20Login/0.0%20primeiro-acesso-login/index.html)  
 
 ---
 
