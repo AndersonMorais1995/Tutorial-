@@ -41,7 +41,7 @@ Navegue pelas sessões abaixo para explorar cada tema com detalhes.
 - [teste](../8. FAQ/8.0 faq.md)
 - [teste](/8. FAQ/8.0 faq.html)
 
-
+- [Primeiro Acesso e Login](/0.%20Primeiro%20Acesso%20e%20Login/0.0%20primeiro-acesso-login.html)
 ---
 
 © 2025 CNBB CDIC BR - Todos os direitos reservados.
