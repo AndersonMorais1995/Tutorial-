@@ -2,122 +2,46 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# 📚 Índice Geral do Sistema
 
-[Link to another page](./another-page.html).
+Bem-vindo ao sistema! Aqui você encontra o acesso rápido para as principais áreas e funcionalidades.  
+Navegue pelas sessões abaixo para explorar cada tema com detalhes.
 
-There should be whitespace between paragraphs.
+---
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+## 📌 Sessões Principais
 
-# Header 1
+- [Primeiro Acesso e Login](/0.%20Primeiro%20Acesso%20e%20Login/0.0%20primeiro-acesso-login.md)  
+  Guia para o seu primeiro acesso ao sistema, cadastro inicial e recuperação de senha.
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+- [Área Pessoal](/1.%20Área%20Pessoal/1.0%20area-pessoal.md)  
+  Espaço para gerenciar suas informações pessoais, notificações e acessar o menu inicial.
 
-## Header 2
+- [Dashboard](/2.%20Dashboard/2.0%20Dashboard.md)  
+  Visão geral dos dados e indicadores importantes para o seu perfil e atividades.
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+- [Pendências](/3.%20Pendências/3.0%20pendencias.md)  
+  Lista das movimentações e atualizações que aguardam sua autorização ou aprovação.
 
-### Header 3
+- [Gerenciamento de Pessoas](/4.%20Gerenciamento%20de%20Pessoas/4.0%20gerenciamento-de-pessoas.md)  
+  Ferramentas para cadastro, edição e controle dos registros de membros e usuários.
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+- [Registros Eclesiais](/5.%20Registros%20Eclesiais/5.0%20registros-eclesiais.md)  
+  Controle e acompanhamento dos documentos e registros oficiais da Igreja.
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+- [Cadastros Gerais](/6.%20Cadastros%20Gerais/6.0%20cadastros-gerais.md)  
+  Administração dos dados complementares e tabelas de apoio do sistema.
 
-#### Header 4
+- [Configurações](/7.%20Configurações/7.0%20configuracoes.md)  
+  Área para gerenciar políticas, organizações, integrações e outras configurações do sistema.
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+- [FAQ](/8.%20FAQ/8.0%20faq.md)  
+  Perguntas frequentes e respostas para ajudar no uso do sistema e no entendimento da Estrutura e Instituições da Igreja Católica.
 
-##### Header 5
+---
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+Caso precise de ajuda, consulte o FAQ ou entre em contato com o suporte.
 
-###### Header 6
+---
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+© 2025 CNBB CDIC BR - Todos os direitos reservados.
