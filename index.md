@@ -38,6 +38,7 @@ Navegue pelas sessões abaixo para explorar cada tema com detalhes.
 - [FAQ]({{ site.baseurl }}/8.%20FAQ/8.0%20faq/index.html)  
   Perguntas frequentes e respostas para ajudar no uso do sistema e no entendimento da Estrutura e Instituições da Igreja Católica.
 
+
 ---
 
 © 2025 CNBB CDIC BR - Todos os direitos reservados.
