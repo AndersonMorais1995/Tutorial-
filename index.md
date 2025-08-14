@@ -38,13 +38,9 @@ Navegue pelas sessões abaixo para explorar cada tema com detalhes.
 - [FAQ](/8.%20FAQ/8.0%20faq.md)  
   Perguntas frequentes e respostas para ajudar no uso do sistema e no entendimento da Estrutura e Instituições da Igreja Católica.
 
-- [Dashboard](/2.%20Dashboard/dashboard.md)
+- [teste](/8. FAQ/8.0 faq.md)
+- [teste](/8. FAQ/8.0 faq.html)
 
-
-
----
-
-Caso precise de ajuda, consulte o FAQ ou entre em contato com o suporte.
 
 ---
 
