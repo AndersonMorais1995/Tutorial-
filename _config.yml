@@ -4,3 +4,4 @@ description: CDIC-BR.
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
+permalink: pretty
